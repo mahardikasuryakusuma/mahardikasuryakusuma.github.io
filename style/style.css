@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=DynaPuff:wght@400;500;600;700&display=swap');
 * {
   font-family: 'DynaPuff', cursive;
+  scroll-behavior: smooth;
 }
 .card {
   border-radius: 0;
